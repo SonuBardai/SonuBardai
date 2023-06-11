@@ -1,7 +1,12 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Sonu
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuBardai)](https://github.com/anuraghazra/github-readme-stats) -->
+You can find me on these socials 🤠
+- Twitter: https://twitter.com/SonuBardai
+- GitHub: https://github.com/SonuBardai
+- LinkedIn: https://www.linkedin.com/in/sonu-bardai/
+- Hashnode: https://sonubardai.hashnode.dev/
+- Portfolio: https://sonubardai-portfolio.web.app/
 <!--
-**SonuBardai/SonuBardai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
