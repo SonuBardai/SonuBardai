@@ -1,5 +1,8 @@
-### Hi there 👋 I'm Sonu
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuBardai)](https://github.com/anuraghazra/github-readme-stats) -->
+## Hi there! 👋 I'm Sonu
+
+I'm a software developer with a passion for building awesome projects and sharing my knowledge with others.
+
+### Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/SonuBardai)
 <br/>
 [![GitHub Badge](https://img.shields.io/badge/Github-333333?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/SonuBardai)
