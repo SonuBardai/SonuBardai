@@ -5,8 +5,6 @@ I'm a software developer with a passion for building awesome projects and sharin
 
 ### Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/SonuBardai)
-[![GitHub Badge](https://img.shields.io/badge/Github-333333?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/SonuBardai)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-bardai/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@sonubardai)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sonubardai)
 [![Hashnode Badge](https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465)](https://sonubardai.hashnode.dev/)
