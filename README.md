@@ -4,4 +4,4 @@ I'm a software developer with a passion for building awesome projects and sharin
 
 
 
-<a href="https://sonubardai-portfolio.web.app/"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuBardai&theme=shades-of-purple&hide_border=true" /><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuBardai&layout=donut&hide=css,html,ejs&theme=shades-of-purple&hide_border=true" /></a>
+<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuBardai&theme=shades-of-purple&hide_border=true" /><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuBardai&layout=donut&hide=css,html,ejs&theme=shades-of-purple&hide_border=true" />
